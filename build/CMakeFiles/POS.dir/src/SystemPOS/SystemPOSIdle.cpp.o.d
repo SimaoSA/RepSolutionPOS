@@ -98,7 +98,7 @@ CMakeFiles/POS.dir/src/SystemPOS/SystemPOSIdle.cpp.o: \
  /usr/include/c++/14/bits/atomic_lockfree_defines.h \
  /usr/include/c++/14/backward/auto_ptr.h \
  /home/admin/Development/POS/include/SystemPOS/SystemPOSItems.h \
- /home/admin/Development/POS/include/Payments/SystemPOSPayments.h \
+ /home/admin/Development/POS/include/SystemPOS/SystemPOSPayments.h \
  /home/admin/Development/POS/include/Payments/Payments.h \
  /usr/include/c++/14/iostream /usr/include/c++/14/ostream \
  /usr/include/c++/14/ios /usr/include/c++/14/bits/char_traits.h \

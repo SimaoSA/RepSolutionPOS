@@ -1,6 +1,6 @@
 #pragma once
 
-
+// ---- Design Pattern -> State Method
 class SystemPOS
 {
 	public:

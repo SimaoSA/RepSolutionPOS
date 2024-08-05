@@ -3,6 +3,8 @@
 #include <string>
 #include <fstream>
 
+// ---- Design Pattern -> Factory Method
+
 class Article
 {
 	protected:

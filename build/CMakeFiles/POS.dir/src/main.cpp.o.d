@@ -158,7 +158,7 @@ CMakeFiles/POS.dir/src/main.cpp.o: \
  /home/admin/Development/POS/include/SystemPOS/SystemPOSItems.h \
  /home/admin/Development/POS/include/SystemPOS/SystemPOSIdle.h \
  /home/admin/Development/POS/include/SystemPOS/SystemPOSReady.h \
- /home/admin/Development/POS/include/Payments/SystemPOSPayments.h \
+ /home/admin/Development/POS/include/SystemPOS/SystemPOSPayments.h \
  /home/admin/Development/POS/include/Payments/Payments.h \
  /home/admin/Development/POS/include/Payments/ClientPayment.h \
  /home/admin/Development/POS/include/Payments/CardPayment.h \

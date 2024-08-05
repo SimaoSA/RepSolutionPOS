@@ -209,17 +209,17 @@ int main()
                 if (UserOption == 1) 
                 { 
                     listPayments.push_back(ClientPayment(make_unique<CashPayment>()));
-                    std::cout << " \n -> Slected Cash Payment \n";
+                    std::cout << " \n -> Selected Cash Payment \n";
                 }
                 else if (UserOption == 2) 
                 { 
                     listPayments.push_back(ClientPayment(make_unique<CardPayment>()));
-                    std::cout << "\n -> Slected Card Payment \n";
+                    std::cout << "\n -> Selected Card Payment \n";
                 }
                 else if (UserOption == 3) 
                 { 
                     listPayments.push_back(ClientPayment(make_unique<MBWAYPayment>()));
-                    std::cout << "\n -> Slected MBWay Payment \n";
+                    std::cout << "\n -> Selected MBWay Payment \n";
                 }
 
                 // Option is correct
@@ -234,7 +234,7 @@ int main()
 
                     if (!clientPayment.ProcessPayment(valueInserted, SubTotal_Vat) )
                     {
-                        std::cout << "\n --- Imcomplete Payment ---- \n";
+                        std::cout << "\n --- Incomplete Payment ---- \n";
                         std::cout << "Is Missing: " << clientPayment.getMissingToPay() << " " << endl;
                         SubTotal_Vat = clientPayment.getMissingToPay();
                     }

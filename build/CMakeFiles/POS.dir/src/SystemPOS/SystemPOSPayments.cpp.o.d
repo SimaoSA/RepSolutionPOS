@@ -1,7 +1,7 @@
 CMakeFiles/POS.dir/src/SystemPOS/SystemPOSPayments.cpp.o: \
  /home/admin/Development/POS/src/SystemPOS/SystemPOSPayments.cpp \
  /usr/include/stdc-predef.h \
- /home/admin/Development/POS/include/Payments/SystemPOSPayments.h \
+ /home/admin/Development/POS/include/SystemPOS/SystemPOSPayments.h \
  /home/admin/Development/POS/include/SystemPOS/SystemPOS.h \
  /home/admin/Development/POS/include/Payments/Payments.h \
  /usr/include/c++/14/iostream /usr/include/c++/14/bits/requires_hosted.h \

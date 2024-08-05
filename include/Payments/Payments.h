@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 
+// ---- Design Pattern -> Strategy Method
 class Payments
 {
 	protected:
@@ -11,7 +12,6 @@ class Payments
 		double _ClientPayment;
 
 		
-
 	public:
 		Payments() : _TotalBill(0.0), _AmountPaid(0.0), _MissingToPay(0.0), _TheChange(0.0) {}
 		virtual ~Payments() {}
