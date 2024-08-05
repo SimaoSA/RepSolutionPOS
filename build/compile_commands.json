@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Article/Article.cpp.o -c /home/admin/Development/POS/src/Article/Article.cpp",
+  "file": "/home/admin/Development/POS/src/Article/Article.cpp",
+  "output": "CMakeFiles/POS.dir/src/Article/Article.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Article/EletronicProduct.cpp.o -c /home/admin/Development/POS/src/Article/EletronicProduct.cpp",
+  "file": "/home/admin/Development/POS/src/Article/EletronicProduct.cpp",
+  "output": "CMakeFiles/POS.dir/src/Article/EletronicProduct.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Article/EletronicProductFactory.cpp.o -c /home/admin/Development/POS/src/Article/EletronicProductFactory.cpp",
+  "file": "/home/admin/Development/POS/src/Article/EletronicProductFactory.cpp",
+  "output": "CMakeFiles/POS.dir/src/Article/EletronicProductFactory.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Article/FoodProduct.cpp.o -c /home/admin/Development/POS/src/Article/FoodProduct.cpp",
+  "file": "/home/admin/Development/POS/src/Article/FoodProduct.cpp",
+  "output": "CMakeFiles/POS.dir/src/Article/FoodProduct.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Article/FoodProductFactory.cpp.o -c /home/admin/Development/POS/src/Article/FoodProductFactory.cpp",
+  "file": "/home/admin/Development/POS/src/Article/FoodProductFactory.cpp",
+  "output": "CMakeFiles/POS.dir/src/Article/FoodProductFactory.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Payments/CardPayment.cpp.o -c /home/admin/Development/POS/src/Payments/CardPayment.cpp",
+  "file": "/home/admin/Development/POS/src/Payments/CardPayment.cpp",
+  "output": "CMakeFiles/POS.dir/src/Payments/CardPayment.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Payments/CashPayment.cpp.o -c /home/admin/Development/POS/src/Payments/CashPayment.cpp",
+  "file": "/home/admin/Development/POS/src/Payments/CashPayment.cpp",
+  "output": "CMakeFiles/POS.dir/src/Payments/CashPayment.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Payments/ClientPayment.cpp.o -c /home/admin/Development/POS/src/Payments/ClientPayment.cpp",
+  "file": "/home/admin/Development/POS/src/Payments/ClientPayment.cpp",
+  "output": "CMakeFiles/POS.dir/src/Payments/ClientPayment.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/Payments/MBWAYPayment.cpp.o -c /home/admin/Development/POS/src/Payments/MBWAYPayment.cpp",
+  "file": "/home/admin/Development/POS/src/Payments/MBWAYPayment.cpp",
+  "output": "CMakeFiles/POS.dir/src/Payments/MBWAYPayment.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/SystemPOS/RuntimeStatePOS.cpp.o -c /home/admin/Development/POS/src/SystemPOS/RuntimeStatePOS.cpp",
+  "file": "/home/admin/Development/POS/src/SystemPOS/RuntimeStatePOS.cpp",
+  "output": "CMakeFiles/POS.dir/src/SystemPOS/RuntimeStatePOS.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/SystemPOS/SystemPOSIdle.cpp.o -c /home/admin/Development/POS/src/SystemPOS/SystemPOSIdle.cpp",
+  "file": "/home/admin/Development/POS/src/SystemPOS/SystemPOSIdle.cpp",
+  "output": "CMakeFiles/POS.dir/src/SystemPOS/SystemPOSIdle.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/SystemPOS/SystemPOSItems.cpp.o -c /home/admin/Development/POS/src/SystemPOS/SystemPOSItems.cpp",
+  "file": "/home/admin/Development/POS/src/SystemPOS/SystemPOSItems.cpp",
+  "output": "CMakeFiles/POS.dir/src/SystemPOS/SystemPOSItems.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/SystemPOS/SystemPOSPayments.cpp.o -c /home/admin/Development/POS/src/SystemPOS/SystemPOSPayments.cpp",
+  "file": "/home/admin/Development/POS/src/SystemPOS/SystemPOSPayments.cpp",
+  "output": "CMakeFiles/POS.dir/src/SystemPOS/SystemPOSPayments.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/SystemPOS/SystemPOSReady.cpp.o -c /home/admin/Development/POS/src/SystemPOS/SystemPOSReady.cpp",
+  "file": "/home/admin/Development/POS/src/SystemPOS/SystemPOSReady.cpp",
+  "output": "CMakeFiles/POS.dir/src/SystemPOS/SystemPOSReady.cpp.o"
+},
+{
+  "directory": "/home/admin/Development/POS/build",
+  "command": "/usr/bin/g++  -I/home/admin/Development/POS/include -I/home/admin/Development/POS/include/Article -I/home/admin/Development/POS/include/Payments -I/home/admin/Development/POS/include/SystemPOS -g -std=gnu++14 -o CMakeFiles/POS.dir/src/main.cpp.o -c /home/admin/Development/POS/src/main.cpp",
+  "file": "/home/admin/Development/POS/src/main.cpp",
+  "output": "CMakeFiles/POS.dir/src/main.cpp.o"
+}
+]

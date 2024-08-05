@@ -1,0 +1,3 @@
+/home/admin/Development/POS/build/CMakeFiles/POS.dir
+/home/admin/Development/POS/build/CMakeFiles/edit_cache.dir
+/home/admin/Development/POS/build/CMakeFiles/rebuild_cache.dir

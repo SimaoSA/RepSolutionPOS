@@ -1,0 +1,9 @@
+FoodProduct 1111111111111 6 2 Cake B 
+FoodProduct 1111111111112 23 3 Juice C 
+FoodProduct 1111111111113 6 400 CookieDream A 
+FoodProduct 1111111111114 6 1 Rice A 
+EletronicProduct 1111111111115 23 22 Charger 12W 
+EletronicProduct 1111111111116 23 220 Phone 5W 
+EletronicProduct 1111111111117 23 999 Computer 45W 
+EletronicProduct 1111111111118 23 330 Tablet 23W 
+EletronicProduct 1111111111119 23 2699 TV 120W 
